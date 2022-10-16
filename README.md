@@ -1,6 +1,5 @@
-- Web Apps
-  - Single Page Apps
-  - Multiple Page Apps
+- Web App
+  - HealthCare
 - Routing
   - react-router-dom
 - react-router-dom
