@@ -1,0 +1,181 @@
+.profile-container {
+  background-image: linear-gradient(blue, black);
+  background-size: cover;
+  height: 100vh;
+  padding: 20px;
+  overflow: auto;
+}
+
+.arrow {
+  color: white;
+  font-size: large;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.title {
+  color: white;
+  font-style: normal;
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+  text-align: center;
+}
+
+.profile-image {
+  height: 350px;
+  width: 300px;
+}
+
+.image-container {
+  margin-top: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+.piechart {
+  background-color: rgb(51, 50, 50);
+  display: flex;
+  justify-content: flex-start;
+  width: 50vw;
+  border-radius: 20px;
+  margin-left: 290px;
+}
+
+.details-container {
+  background-color: rgb(51, 50, 50);
+  border-radius: 20px;
+  height: 230px;
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.det-cont-top-sec {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 13px;
+}
+.doctor-name {
+  color: aliceblue;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.doc-prof-container {
+  height: 45px;
+  width: 150px;
+  background-color: lightslategray;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border-radius: 13px;
+  padding-bottom: 20px;
+}
+
+.doc-prof {
+  color: beige;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.reviews-container {
+  background-color: blue;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+  text-align: center;
+}
+.reviews {
+  color: white;
+  font-size: 28px;
+}
+
+.about {
+  color: white;
+}
+
+.about-container {
+  background-color: rgb(51, 50, 50);
+  border-radius: 20px;
+  height: 280px;
+  width: 90vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.abt-sub-con {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: auto;
+  margin-left: 10px;
+}
+
+.description {
+  color: dimgray;
+  font-size: 25px;
+}
+.seemore-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 85px;
+}
+.seemore {
+  color: blue;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 800;
+}
+.icon {
+  color: blue;
+  font-size: 50px;
+}
+
+.abt-sub-con-2 {
+  background-color: blue;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 330px;
+  text-align: center;
+}
+
+.calender {
+  color: white;
+  font-size: 50px;
+  margin-top: 15px;
+}
+
+.days {
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.time {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.open {
+  background-color: white;
+  color: darkcyan;
+  font-size: 17px;
+  font-weight: 900;
+  height: 32px;
+  width: 90px;
+  border-radius: 15px;
+}
